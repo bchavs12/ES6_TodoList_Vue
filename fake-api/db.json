@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "text": "Atualizar meu portifolio",
+      "done": false,
+      "id": 1
+    },
+    {
+      "text": "Concluir BootCampCTD",
+      "done": false,
+      "id": 2
+    },
+    {
+      "text": "Me formar na faculdade",
+      "done": false,
+      "id": 3
+    },
+    {
+      "text": "Desenvolvedor Web",
+      "done": false,
+      "id": 4
+    },
+    {
+      "text": "Hello World",
+      "done": false,
+      "id": 5
+    }
+  ]
+}
